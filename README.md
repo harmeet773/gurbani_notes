@@ -1,6 +1,7 @@
-"# Gurbani notes" 
+# Gurbani notes
 
+Jekyll site for Gurbani study pages.
 
-
-
-live at not hosted yet
+Pages:
+- `japji.html`
+- `rehras.html`
