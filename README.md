@@ -3,7 +3,7 @@
 Jekyll site for Gurbani study pages, configured for GitHub Pages.
 
 Published URL:
-- `https://harmeet773.github.io/Gurbani_index/`
+- `https://harmeet773.github.io/gurbani_notes/`
 
 Pages:
 - `japji.html`
